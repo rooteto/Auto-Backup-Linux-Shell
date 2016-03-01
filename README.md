@@ -1,4 +1,4 @@
-# Auto-Backup-Linux-Shell
+# Linux Auto Backup Shell
 Linux otomatik mysql yedeği alma scripti
 
 # Kullanımı
@@ -38,3 +38,11 @@ Her gün gece 3:30 da çalışsın yedek alsın diyorsak
 ```sh
 30 3 * * * /home/kullanici/backup/backup_bash.sh
 ```
+
+
+## Ufak bir hatırlatma, küçük bir reklam :)
+* [Hosteva] - Profesyonel Hosting
+* [AngularJS] - Güncel Teknoloji
+ 
+[Hosteva]: <http://www.hosteva.com>
+[rooteto]: <http://rooteto.com>
