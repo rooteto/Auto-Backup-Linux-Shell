@@ -42,7 +42,7 @@ Her gün gece 3:30 da çalışsın yedek alsın diyorsak
 
 ## Ufak bir hatırlatma, küçük bir reklam :)
 * [Hosteva] - Profesyonel Hosting
-* [AngularJS] - Güncel Teknoloji
+* [rooteto] - Güncel Teknoloji
  
 [Hosteva]: <http://www.hosteva.com>
 [rooteto]: <http://rooteto.com>
