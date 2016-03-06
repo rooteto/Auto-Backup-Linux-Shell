@@ -1,9 +1,11 @@
 # Linux Auto Backup Shell
-Linux otomatik mysql yedeği alma scripti
+Bu script ile Linux sunucunuz veya hostlarınızın yedeklerini her gece alabilir ve rahat bir şekilde uyuyabilirsiniz. İleriye dönük yenilikler ekleyeceğim ama şimdilik bu bile çok faydalı bir script.
+
+Hostlarınızın yedeği her zaman önemlidir. Günlük içerik girdiğiniz siteniz varsa bu iş daha önemlidir.
 
 # Kullanımı
 
-Alttakileri öncelikle dolduruyoruz. Bilgilere root şifresi de verebilirsiniz.
+Scripti indirdikten sonra, Alttakileri dolduruyoruz. Bilgilere root şifresi de verebilirsiniz. root şifresi kullanıyorsanız bu scripti /root klasöründe gizleyin.
 
 * host user / hosting kullanıcı adı, cpanel kullanıcı adı yada ftp kullanıcı adı.
 * user / mysql veritabanı kullanıcı adı
@@ -40,7 +42,7 @@ Her gün gece 3:30 da çalışsın yedek alsın diyorsak
 ```
 
 
-## Ufak bir hatırlatma, küçük bir reklam :)
+### Küçük bir reklam.
 * [Hosteva] - Hosting
 * [rooteto] - Teknoloji
  
