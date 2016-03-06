@@ -37,4 +37,4 @@ find $backup_path/* -type d -exec chmod 755 {} +
 find $backup_path/* -type f -exec chmod 655 {} +
 
 # dosyaları 30 gün sonra sil
-find $backup_path/* -mtime +30 -exec rm {} \;
+find $backup_path/* -mtime +30 -exec rm -rf {} \;
