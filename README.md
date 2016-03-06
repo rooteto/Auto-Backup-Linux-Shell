@@ -1,4 +1,4 @@
-# Linux Auto Backup Shell
+# Linux Auto MySQL Backup Shell Script (Otomatik MySQL Yedeği Alma)
 Bu script ile Linux sunucunuz veya hostlarınızın yedeklerini her gece alabilir ve rahat bir şekilde uyuyabilirsiniz. İleriye dönük yenilikler ekleyeceğim ama şimdilik bu bile çok faydalı bir script.
 
 Hostlarınızın yedeği her zaman önemlidir. Günlük içerik girdiğiniz siteniz varsa bu iş daha önemlidir.
